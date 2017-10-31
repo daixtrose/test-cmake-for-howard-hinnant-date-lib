@@ -1,0 +1,4 @@
+[submodule "libs/date"]
+	path = libs/date
+	url = https://github.com/ReinventorsOfTheWheel/date
+	branch = daixtrose-prepare-cmake
